@@ -1,39 +1,39 @@
 {
-  "persona":[
+  "pacientes":[
     {
       "id": 1,
-      "nombre": "Cristian",
-      "apellido": "Julio",
-      "edad": 18,
-      "ciudad": "Barranquilla"
+      "nombre": "andres",
+      "apellido": "pulido",
+      "covid": "positivo",
+      "ciudad": "bogota"
     },
     {
       "id": 2,
-      "nombre": "Andres",
-      "apellido": "Cantillo",
-      "edad": 18,
+      "nombre": "felipe",
+      "apellido": "suarez",
+      "covid": "negativo",
       "ciudad": "Barranquilla"
     },
     {
       "id": 3,
-      "nombre": "Laura",
-      "apellido": "Villa",
-      "edad": 23,
+      "nombre": "deisy",
+      "apellido": "salamanca",
+      "covid": "negativo",
       "ciudad": "Cali"
     },
     {
       "id": 4,
-      "nombre": "Josefa",
-      "apellido": "Villalba",
-      "edad": 34,
+      "nombre": "pepito",
+      "apellido": "melendez",
+      "civud": "positivo",
       "ciudad": "Medellín"
     },
     {
       "id": 5,
       "nombre": "Carlos",
-      "apellido": "Torres",
-      "edad": 19,
-      "ciudad": "Bucaramanga"
+      "apellido": "villareal",
+      "covid": "positivo",
+      "ciudad": "magangue"
     }
   ]
 }
