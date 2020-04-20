@@ -1,5 +1,5 @@
 {
-  "personal":[
+  "pacientes": [
      {
     "id":01,
     "nombre":"Livan",
@@ -21,6 +21,6 @@
     "ciudad": "cartagena",
     "covid-19":"negativo"
      }
-    ]
-}
+   ]
+ }
     
