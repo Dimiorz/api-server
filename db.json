@@ -2,24 +2,24 @@
   "pacientes": [
      {
     "id":01,
-    "nombre": "Livan",
-    "apellido": "torres",
-    "ciudad": "barranquilla",
-    "covid-19": "Negativo"
+    "nombre":"Livan",
+    "apellido":"torres",
+    "ciudad":"barranquilla",
+    "covid-19":"Negativo"
      },
      {
     "id":02,
-    "nombre": "andres",
-    "apellido": "pulido",
-    "ciudad": "bogota",
-    "covid-19": "positivo"
+    "nombre":"andres",
+    "apellido":"pulido",
+    "ciudad":"bogota",
+    "covid-19":"positivo"
      },
      {
     "id":03,
-    "nombre": "deisy",
-    "apellido": "salamanca",
-    "ciudad": "cartagena",
-    "covid-19": "negativo"
+    "nombre":"deisy",
+    "apellido":"salamanca",
+    "ciudad":"cartagena",
+    "covid-19":"negativo"
      }
    ]
  }
